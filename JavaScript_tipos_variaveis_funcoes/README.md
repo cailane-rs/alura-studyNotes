@@ -225,10 +225,3 @@ while
 with
 yield
 ```
-
-
-# Dúvidas Mentoria
-
-## Minhas dúvidas para Mentoria de 13/04
-
-- No curso JavaScript: tipos, variváveis e funções (semana 10), são apresentadas 2 novas (não havíamos aprendido antes) formas de declarar função: expressão de função e arrow function. No dia a dia, elas são utilizadas ou somente a padrão? Se são, com que frequência?
