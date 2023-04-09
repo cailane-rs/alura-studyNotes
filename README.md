@@ -1,13 +1,11 @@
 # alura-studyNotes
-Anotações dos cursos Iniciante em JavaScript
-
+Anotações de conteúdos dos cursos da Alura, trilha FullStack - Programa Desenvolve
 
 # Resumo:
+Sempre gostei de fazer anotações sobre o conteúdo que estou estudando. Então vi que ficaria muito mais organizado se eu passasse para o Github, sendo um rápido acesso para as anotações de cada curso e não corro o risco de perdê-las, como se tivesse guardado localmente.
 
-Resumos sobre os conteúdos abordados nos cursos da trilha FullStack do programa Desenvolve
+Os resumos são sobre cursos da Alura, na trilha FullStack do Programa Desenvolve da Boticário, edição 2023.
 
-
-## Referência
+## Cursos
 
  - [JavaScript: tipos, variáveis e funções](https://github.com/cailane-rs/alura-studyNotes/tree/master/JavaScript_tipos_variaveis_funcoes)
-
