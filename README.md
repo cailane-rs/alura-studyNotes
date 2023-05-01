@@ -12,4 +12,4 @@ Os resumos são sobre cursos da Alura, na trilha FullStack do Programa Desenvolv
  - [JavaScript: arrays](https://github.com/cailane-rs/alura-studyNotes/tree/master/JavaScript_array_matriz_function_for)
  - [JavaScript: objetos](https://github.com/cailane-rs/alura-studyNotes/tree/master/JavaScript_objetos)
  - [JavaScript: programação orientada a objetos](https://github.com/cailane-rs/alura-studyNotes/tree/master/JavaScript_programacao_orienta_objetos)
- 
+ - [JavaScript: manipulando o DOM](https://github.com/cailane-rs/alura-studyNotes/tree/master/JavaScript_manipulando_DOM)
